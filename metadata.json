@@ -1,0 +1,7 @@
+{
+  "name": "Madpakke-Magikeren",
+  "description": "En sjov og interaktiv app, der gør det til en leg for børn at sammensætte deres egen sunde og lækre madpakke ved hjælp af AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
